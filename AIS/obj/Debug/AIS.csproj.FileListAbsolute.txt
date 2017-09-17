@@ -1,0 +1,25 @@
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\bin\Debug\AIS.exe.config
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\bin\Debug\AIS.exe
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\bin\Debug\AIS.pdb
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.exe
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.pdb
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.Add_row_form.resources
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.Main_form.resources
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.Add_Form_Housing.resources
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.Add_Form_Rooms.resources
+E:\old hard\инст\IV курс\семестр 7\курсовые\субд\прога\AIS\AIS\obj\Debug\AIS.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\bin\Debug\AIS.exe.config
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.exe
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.pdb
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\bin\Debug\AIS.exe
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\bin\Debug\AIS.pdb
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.Add_Form_Housing.resources
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.Add_Form_Rooms.resources
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.Main_form.resources
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.Add_row_form.resources
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.Properties.Resources.resources
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.Vyborka.resources
+C:\Users\student\Downloads\AIS_28.11_alpha\AIS\obj\Debug\AIS.csproj.GenerateResource.Cache
